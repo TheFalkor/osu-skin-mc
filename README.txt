@@ -1,4 +1,4 @@
-Hello and thank you for using Falkor Skin.
+Hello and thank you for using minecraft.flkr
 The author is TheFalkor.
 
 
@@ -18,7 +18,3 @@ Use combo colour as tint for slider ball [ON]
 (opt) Cursor size	[1.00]
 (opt) Background video 	[OFF]
 (opt) Storyboard	[OFF]
-
-(opt) Master Volume	[20%]
-(opt) Music Volume	[50%]
-(opt) Effect Volume	[60%]
